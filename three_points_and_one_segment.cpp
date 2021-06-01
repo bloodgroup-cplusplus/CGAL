@@ -1,3 +1,17 @@
+// the explanation below is taken from the official documentaion of CGAL
+//https://doc.cgal.org/latest/Manual/tutorial_hello_world.html( this is the link to the official page)
+
+/*In this first example, we demonstrate how to construct some points and a segment, and perform some basic operations on them.
+
+All CGAL header files are in the subdirectory include/CGAL. All CGAL classes and functions are in the namespace CGAL. Classes start with a capital letter, global function with a lowercase letter, and constants are all uppercase. The dimension of an object is expressed with a suffix.
+
+The geometric primitives, like the point type, are defined in a kernel. The kernel we have chosen for this first example uses double precision floating point numbers for the Cartesian coordinates of the point.
+
+Besides the types we see predicates like the orientation test for three points, and constructions like the distance and midpoint computation. A predicate has a discrete set of possible results, whereas a construction produces either a number, or another geometric entity
+
+*/
+
+
 #include<iostream>
 #include<CGAL/Simple_cartesian.h>
 typedef CGAL::Simple_cartesian<double> Kernel;
