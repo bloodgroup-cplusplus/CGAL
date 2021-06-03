@@ -23,3 +23,4 @@ brew install gmp.
 
 While compiling the programs do not forget to link it with the gmp (i.e., compile using the command g++ progname.cpp -lgmp) followed by ./a.out
 
+For more, do visit the official website of CGAL:https://doc.cgal.org/latest/Manual/usage.html
