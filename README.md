@@ -10,6 +10,8 @@
 
 The Computational Geometry Algorithms Library (CGAL) is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 
+For beginners this video is really good for understanding cgal (https://www.youtube.com/watch?v=3DLfkWWw_Tg)
+
 
 On Linux distributions such as Debian/Ubuntu/Mint, use apt-get in the following way:
 
