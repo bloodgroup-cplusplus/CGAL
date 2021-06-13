@@ -1,4 +1,13 @@
 # CGAL
+
+
+- cgal has 600,000 loc (c++)
+- 10000 downloads
+- 3500 manual pages
+- 20 active developers
+- 100 packages
+
+
 The Computational Geometry Algorithms Library (CGAL) is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 
 
