@@ -34,4 +34,8 @@ brew install gmp.
 
 While compiling the programs do not forget to link it with the gmp (i.e., compile using the command g++ progname.cpp -lgmp) followed by ./a.out
 
+The design diagram of cgal is 
+
+![](https://github.com/cl-rs/Images/blob/main/Screenshot%20(660).png)
+
 For more, do visit the official website of CGAL:https://doc.cgal.org/latest/Manual/usage.html
