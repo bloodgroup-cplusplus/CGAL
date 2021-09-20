@@ -31,7 +31,7 @@ sudo apt-get install libgmp3-dev (for ubuntu)
 for Mac os install it using the command
 
 brew install gmp.
-
+Some CGAL programs run only with qt5 and above .
 While compiling the programs do not forget to link it with the gmp (i.e., compile using the command g++ progname.cpp -lgmp) followed by ./a.out
 
 The design diagram of cgal is 
